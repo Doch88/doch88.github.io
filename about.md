@@ -15,4 +15,4 @@ I am also continuing writing fiction in my free time and do many other things, d
 
 Feel free to contact me for anything, even for a nice chat!
 
-[LinkedIn](https://www.linkedin.com/in/davidemanco/) - [GitHub](github.com/Doch88)
+[LinkedIn](https://www.linkedin.com/in/davidemanco/) - [GitHub](https://github.com/Doch88)
