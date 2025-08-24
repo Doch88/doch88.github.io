@@ -14,3 +14,5 @@ Anyway, this passion for videogames led me to learn many programming languages a
 I am also continuing writing fiction in my free time and do many other things, depending on the obsession of the moment. 
 
 Feel free to contact me for anything, even for a nice chat!
+
+[LinkedIn](https://www.linkedin.com/in/davidemanco/) - [GitHub](github.com/Doch88)
