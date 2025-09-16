@@ -12,4 +12,3 @@ For who doesn't know what KYC is, think of when you have to register online to u
 That's KYC in a nutshell, and as you may understand, we don't want to let fraudsters in.
 
 If you ever played [Papers, Please](https://en.wikipedia.org/wiki/Papers,_Please) you can imagine that sometimes it's not super easy. <br>
-Our analysts have to deal with all kinds of different people 
