@@ -123,5 +123,3 @@ ELA is just a tool in the Image Forensics toolbox that can help fight deepfakes.
 But many other things can be used together with ELA, such as EXIF information, PRNU, PCA and so on. <br>
 And probably some of these techniques will be the topic for another post.
 
-
-
