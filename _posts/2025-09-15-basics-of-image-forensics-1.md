@@ -81,6 +81,7 @@ And, importantly, I **save this deepfake in PNG format**. <br>
 Unlike JPEG, PNG uses *lossless* compression, meaning no information is lost. <br>
 
 Now, using the information above, we perform ELA with a **JPEG quality of 95%**.
+In this way, the part of the image that was already compressed with the same quality factor should not produce any new artifact.
 
 | ![French specimen](/assets/images/ela/original.jpg)  | ![ELA French specimen](/assets/images/ela/ela_original.jpg)  |
 |---|---|
