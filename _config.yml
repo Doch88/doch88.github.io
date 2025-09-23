@@ -20,7 +20,6 @@
 
 title: Doch
 email: contact@dmanco.dev
-tagline: Davide Manco's blog
 description: >- # this means to ignore newlines until "baseurl:"
   Random stuff from a random person. Ranging from tech topics to more causal ones.
 baseurl: "/" # the subpath of your site, e.g. /blog
