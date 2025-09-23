@@ -3,6 +3,7 @@ layout: post
 title:  "AI Engineers aren’t safe from being replaced by AI"
 date:   2025-08-17 17:32:31 +0200
 tags: ai random
+image: /assets/images/1_tXcgmhR3NbSYRefglt9g_A.jpeg
 ---
 It quickly became small talk; whenever I speak with a fellow engineer working in tech, we somehow always end up in the same direction:
 
