@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Basics of Image Forensics: Compression against AIs"
+title:  "Detecting AI Fakes with Compression Artifacts"
 date:   2025-09-15 20:15:09 +0200
 tags: ai tech image forensics 
 ---
