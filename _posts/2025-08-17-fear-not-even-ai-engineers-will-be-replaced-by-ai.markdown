@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fear not, even AI engineers will be replaced by AI."
+title:  "AI Engineers aren’t safe from being replaced by AI"
 date:   2025-08-17 17:32:31 +0200
 tags: ai random
 ---
