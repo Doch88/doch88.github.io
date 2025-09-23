@@ -32,6 +32,7 @@ google_analytics: G-Q944MNPTHV
 theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 sidebar_home_link:  true
 
