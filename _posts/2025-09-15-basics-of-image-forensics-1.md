@@ -3,6 +3,7 @@ layout: post
 title:  "Detecting AI Fakes with Compression Artifacts"
 date:   2025-09-15 20:15:09 +0200
 tags: ai tech image forensics 
+image: /assets/images/ela/deepfake.png
 ---
 
 Let's start with some context. Why am I writing this post?
